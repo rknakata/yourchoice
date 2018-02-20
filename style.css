@@ -1,0 +1,21 @@
+.ui.borderless.topmenu.container.menu{
+  box-shadow: none;
+  border: none;
+  margin: 0px;
+}
+.murphy-background {
+  background: url(http://murphyshawaii.com/media/2014/04/murphys-front.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+.down-arrow{
+  position: absolute;
+  bottom: 5%;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  cursor: pointer;
+  height: 6em;
+  fill: #f0cf1e;
+  padding-bottom: 10px;
+}
